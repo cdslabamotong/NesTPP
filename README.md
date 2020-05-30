@@ -10,6 +10,14 @@ This code is written in Python. To use it you will need:
 - Scipy > 1.2
 - pandas
 
+## Usage
+### Run the demo
+```
+python ntpp.py
+```
+
+### Data
+
 ## Cite
 ```
 @article{ling2020nestpp,
