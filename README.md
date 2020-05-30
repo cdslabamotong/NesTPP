@@ -11,3 +11,11 @@ This code is written in Python. To use it you will need:
 - pandas
 
 ## Cite
+```
+@article{ling2020nestpp,
+  title={NesTPP: Modeling Thread Dynamics in Online Discussion Forums},
+  author={Ling, Chen and Tong, Guangmo and Chen, Mozi},
+  journal={arXiv preprint arXiv:2003.06051},
+  year={2020}
+}
+```
