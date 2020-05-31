@@ -17,6 +17,7 @@ python ntpp.py
 ```
 
 ### Data
+The data can be access with this [link](https://drive.google.com/drive/folders/1uZudmS2y9npqG0sbfLy6AlduwFG32Kbg?usp=sharing). Please put the data folder in the folder of NesTPP to correctly read it.
 
 ## Cite
 ```
