@@ -40,7 +40,7 @@ A self-exciting (Hawkes) process can be expressed as:
 In order to comprehend the nested structure of an online discussion forum, we design the NesTPP that treats both types of event streams as separate self-exciting point processes controlled by inter-dependent intensity functions. In what follows, we present the intensity function for main event stream and reply event stream.
 
 <p align="center">
-  <img width="40%" src="reply_int.png">
+  <img width="37%" src="reply_int.png">
 </p>
 
 <p align="center">
