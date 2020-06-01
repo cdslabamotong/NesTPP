@@ -26,6 +26,9 @@ In order to use your own data, you'll have to provide:
 
 [Pushshift](https://github.com/pushshift/api) is an efficient way of searching threads and associated replies on Reddit, which is the data source of our paper.
 
+### Model
+Online discussion forum creates an asynchronous conversation environment for online users to exchange ideas and share opinions through a unique thread-reply communication mode. In this work, we view the entire event space of an online discussion forum as a nested point process. 
+
 ## Cite
 ```
 @article{ling2020nestpp,
