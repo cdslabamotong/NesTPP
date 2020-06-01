@@ -28,7 +28,9 @@ In order to use your own data, you'll have to provide:
 
 ### Model
 Online discussion forum creates an asynchronous conversation environment for online users to exchange ideas and share opinions through a unique thread-reply communication mode. In this work, we view the entire event space of an online discussion forum as a nested point process. An illustration is given as following:
-<img src="Fig_1.png" alt="illustration" width="70%"/>
+<p align="center">
+  <img width="50%" src="Fig_1.png">
+</p>
 
 ## Cite
 ```
