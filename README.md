@@ -11,7 +11,7 @@ This code is written in Python. To use it you will need:
 - pandas
 
 ## Model
-<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{120}&space;\large&space;\lambda_{main}(t)&space;=&space;\mu_{main}&space;&plus;&space;\sum_{i=1}^{m}\underbrace{\lambda_{reply}^{i}(t)&space;\cdot&space;p_i^{\gamma}\cdot&space;(t-t_i&space;&plus;&space;c)^{-(\eta&space;&plus;1)}}_{\psi_{main}(t)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{120}&space;\large&space;\lambda_{main}(t)&space;=&space;\mu_{main}&space;&plus;&space;\sum_{i=1}^{m}\underbrace{\lambda_{reply}^{i}(t)&space;\cdot&space;p_i^{\gamma}\cdot&space;(t-t_i&space;&plus;&space;c)^{-(\eta&space;&plus;1)}}_{\psi_{main}(t)}" title="\large \lambda_{main}(t) = \mu_{main} + \sum_{i=1}^{m}\underbrace{\lambda_{reply}^{i}(t) \cdot p_i^{\gamma}\cdot (t-t_i + c)^{-(\eta +1)}}_{\psi_{main}(t)}" /></a>
+<img src="https://latex.codecogs.com/gif.latex?\dpi{120}&space;\large&space;\lambda_{main}(t)&space;=&space;\mu_{main}&space;&plus;&space;\sum_{i=1}^{m}\underbrace{\lambda_{reply}^{i}(t)&space;\cdot&space;p_i^{\gamma}\cdot&space;(t-t_i&space;&plus;&space;c)^{-(\eta&space;&plus;1)}}_{\psi_{main}(t)}" title="\large \lambda_{main}(t) = \mu_{main} + \sum_{i=1}^{m}\underbrace{\lambda_{reply}^{i}(t) \cdot p_i^{\gamma}\cdot (t-t_i + c)^{-(\eta +1)}}_{\psi_{main}(t)}" />
 
 ## Usage
 ### Run the demo
