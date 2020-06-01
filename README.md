@@ -34,7 +34,7 @@ Online discussion forum creates an asynchronous conversation environment for onl
 
 A self-exciting (Hawkes) process can be expressed as:
 <p align="center">
-  <img width="50%" src="int.png">
+  <img width="37%" src="int.png">
 </p>, where t is the current time, H_t is the historical time series information, mu_0 is the base intensity, and p_i is the additional mark information of the i-th previous event. 
 
 In order to comprehend the nested structure of an online discussion forum, we design the NesTPP that treats both types of event streams as separate self-exciting point processes controlled by inter-dependent intensity functions. In what follows, we present the intensity function for main event stream and reply event stream.
