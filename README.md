@@ -32,6 +32,20 @@ Online discussion forum creates an asynchronous conversation environment for onl
   <img width="50%" src="Fig_1.png">
 </p>
 
+A self-exciting (Hawkes) process can be expressed as:
+<p align="center">
+  <img width="50%" src="int.png">
+</p>, where t is the current time, H_t is the historical time series information, mu_0 is the base intensity, and p_i is the additional mark information of the i-th previous event. 
+
+
+<p align="center">
+  <img width="50%" src="reply_int.png">
+</p>
+
+<p align="center">
+  <img width="50%" src="main_int.png">
+</p>
+
 ## Cite
 ```
 @article{ling2020nestpp,
